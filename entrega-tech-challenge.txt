@@ -1,0 +1,5 @@
+Tech Challenge - Fase 3: Machine Learning Engineering
+
+Repositorio GitHub: https://github.com/SheylaSilvana/tech-challenge-flight-delays
+
+Video demonstrativo: https://drive.google.com/file/d/1V8mvb2W0tNTCpyIRJYrghF4op-yTMyBq/view?usp=sharing
